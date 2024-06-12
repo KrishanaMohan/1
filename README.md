@@ -11,7 +11,7 @@ PASSWORD : Mohan227209@
 
 Getting Started
 
-Clone the Repository Clone this repository to your local machine using the following HTTPS link:  https://github.com/THE-KAYASTHA/SunbaseProject
+Clone the Repository Clone this repository to your local machine using the following HTTPS link: https://github.com/KrishanaMohan/Sunbase_Assingnment.git
 
 Open IntelliJ IDEA and follow these steps to clone the project:
 
