@@ -21,4 +21,4 @@ step 3-> Project from Version Control
 step 4-> Paste the cloned repository URL
 step 5-> wait for IntelliJ to download and set up the project. and start the backend server
 
-Video for understanding working https://github.com/THE-KAYASTHA/SunbaseProject/assets/139906594/8e2fb93a-4034-4fd3-b3a5-c30423f26704
+Video for understanding working https://drive.google.com/file/d/1zkDW1RNExKbf3lBiIauEB5el5ON7R5q8/view?usp=drive_link
